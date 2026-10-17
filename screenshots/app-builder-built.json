@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CROWNBREAK",
+      "hasCanvas": false,
+      "bodyTextLen": 254,
+      "bodyTextHash": "805502575213aee79d48d5d7a9e2f005cc3cc48bd296db2086379b96b6fc59c1",
+      "bodyTextPrefix": "LV 1 · HP 380 · x2 · vial 5 1,800 18 SIDE STREET SHOOTER CROWNBR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CROWNBREAK",
+      "hasCanvas": false,
+      "bodyTextLen": 254,
+      "bodyTextHash": "805502575213aee79d48d5d7a9e2f005cc3cc48bd296db2086379b96b6fc59c1",
+      "bodyTextPrefix": "LV 1 · HP 380 · x2 · vial 5 1,800 18 SIDE STREET SHOOTER CROWNBR",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
